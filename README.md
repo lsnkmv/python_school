@@ -1,1 +1,4 @@
 # python_school
+
+
+пупупу
